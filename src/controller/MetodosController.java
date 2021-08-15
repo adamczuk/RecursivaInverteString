@@ -28,5 +28,3 @@ public class MetodosController {
 	}
 
 }
-//System.out.println(nome.substring(0, 1));
-//retorna a primeira letra
